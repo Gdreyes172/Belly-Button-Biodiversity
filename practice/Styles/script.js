@@ -7,5 +7,4 @@ function updatePage() {
 
   console.log(dropdownMenuID);
   console.log(selectedOption);
-  console.log(d3.selectAll("#menu").node().id);
 };
